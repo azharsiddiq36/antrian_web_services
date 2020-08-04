@@ -1,0 +1,32 @@
+.berkasForm input{
+    border: 0px;
+    border-bottom : 1px black dotted;
+}
+.berkasForm input:focus{
+    border: 0px;
+    border-bottom : 1px black dotted;
+}
+.berkasForm p, .berkasForm h4{
+    margin: 0 !important;
+}
+
+.bg-dov{
+    background-color: #3a3f51 !important;
+}
+
+.img-berkas a img{
+    filter: opacity(60%);
+    border-radius: 5px;
+}
+.img-berkas a:hover{
+    cursor: zoom-in;
+}
+.img-berkas-td{
+    filter: opacity(60%)!important;
+    border-radius: 5px!important;
+    width: 70px!important;
+    height: 40px!important;
+}
+.img-berkas-td:hover{
+    cursor: zoom-in;
+}

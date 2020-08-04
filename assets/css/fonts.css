@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'titilliumweb-regular';
+	src: url("../fonts/TitilliumWeb/TitilliumWeb-Regular.ttf") format("truetype");
+}
+@font-face {
+	font-family: 'titilliumweb-bold';
+	src: url("../fonts/TitilliumWeb/TitilliumWeb-Bold.ttf") format("truetype");
+}
+@font-face {
+	font-family: 'girassol-regular';
+	src: url("../fonts/Girassol/Girassol-Regular.ttf") format("truetype");
+}
+@font-face {
+	font-family: 'digi-regular';
+	src: url("../fonts/Digi/Digi-Regular.ttf") format("truetype");
+}
+@font-face {
+	font-family: 'digi-italic';
+	src: url("../fonts/Digi/Digi-Italic.ttf") format("truetype");
+}
+@font-face {
+	font-family: 'digi-italic-bold';
+	src: url("../fonts/Digi/Digi-Italic-Bold.ttf") format("truetype");
+}
+@font-face {
+	font-family: 'digi-bold';
+	src: url("../fonts/Digi/Digi-Bold.ttf") format("truetype");
+}

@@ -1,0 +1,26 @@
+{
+  "name": "digtive_antrian",
+  "version": "1.0.0",
+  "description": "plugins js untuk pengembangan aplikasi antrian",
+  "main": "alerts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antrian"
+  ],
+  "author": "bagussjm, azhar36",
+  "license": "MIT",
+  "dependencies": {
+    "bare-bones-slider": "^1.3.3",
+    "bxslider": "^4.2.14",
+    "jsprintmanager": "^2.0.4",
+    "mixitup": "^3.3.1",
+    "moment": "^2.24.0",
+    "print-js": "^1.0.63",
+    "videojs-playlist": "^4.3.1"
+  },
+  "devDependencies": {
+    "video.js": "^7.6.6"
+  }
+}

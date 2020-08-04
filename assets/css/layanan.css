@@ -1,0 +1,38 @@
+#layananan-container {
+	width: 100%;
+	height: 768px;
+	max-height: 768px;
+	padding: 8px 12px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+#layanan-header {
+	width: 100%;
+	height: 150px;
+	max-height: 160px;
+}
+
+#layanan-body {
+	width: 100%;
+}
+
+#layanan-footer {
+	width: 100%;
+	padding: 32px 40px;
+}
+
+
+.card-service {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	min-height: 115px;
+	height: 115px;
+	overflow: hidden;
+	clip-path: polygon(90% 0, 100% 35%, 100% 92%, 97% 100%, 7% 100%, 0 87%, 0 0);
+}
+.active-queue-number{
+	animation-duration: 9s;
+	animation-iteration-count: infinite;
+}
